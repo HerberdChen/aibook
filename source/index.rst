@@ -3,18 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to aibook's documentation!
+人工智能原理与应用实践
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
-   
-   
-   
 
 
-
+   intro/index.rst
+   ann/index.rst
+   stat/index.rst
+   al/index.rst
+   evolution/index.rst
+   swarm/index.rst
+   inference/index.rst
+   
 Indices and tables
 ==================
 
