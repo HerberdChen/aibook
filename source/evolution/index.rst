@@ -2,12 +2,12 @@
 ==========
 
 
-
-
 .. toctree::
     :maxdepth: 2
 
     01_basic.rst
-    02_history.rst
-    03_application.rst
-    04_how.rst
+    02_ga.rst
+    03_other.rst
+	06_new.rst
+	07_exec.rst
+    08_extendread.rst
