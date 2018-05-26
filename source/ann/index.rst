@@ -1,5 +1,5 @@
 专题一 人工神经网络
-============
+========================
 
 本章介绍人工神经网络，
 
@@ -12,7 +12,7 @@
     03_hopfield.rst
     04_random.rst
     05_cnn.rst
-	06_rnnlstm.rst
-	07_dbn.rst
-	09_exec.rst
+    06_rnnlstm.rst
+    07_dbn.rst
+    09_exec.rst
     10_extendread.rst
