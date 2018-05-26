@@ -14,9 +14,9 @@
    intro/index.rst
    ann/index.rst
    stat/index.rst
-   al/index.rst
    evolution/index.rst
    swarm/index.rst
+   al/index.rst
    inference/index.rst
    
 Indices and tables
